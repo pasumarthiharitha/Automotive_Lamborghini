@@ -10,25 +10,22 @@ Automation is a necessity in our day to day life because it not only seeks to im
 
 ## SWOT- Strengths, and Weakness, Opportunities Threats:
  ### Strengths
- 
+ Comfortable, Easy to use, Fast and accuracy operation, Easy transportation
 ### Weakness
-
+High cost, 
 ### Opportunities
-
+it's a modern way of approach,High use in modern days
 ### Threat
+if sensor is damages, operation of the system will stop
 
 ## 4W's and 1'H:
-
 ### WHO :-
 Any user who is travelling in the car can use this system.
-
 ### WHAT :-
 Its a Body control model of a car which describes different features
 ### WHEN :-
 There is a requirement of vehicle these systems are used 
-
 ### WHERE:-
 Used in automatic cars
-
 ### HOW :- 
 By developing a embedded system which is user friendly and can be implemented without difficulty.
