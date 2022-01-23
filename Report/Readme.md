@@ -65,4 +65,4 @@ Name|PS Number |	Features|
 Pasumarthi Haritha	|40021034| Sunroof Control system | 
 Sanapala Usharani	|40021045| Power window | 
 Kotala Vaishnavi	|40021047| seat belt control system | 
-saba begum	|40021049| Sunroof Control system | 
+Saba Begum	|40021049| Wiper system | 
