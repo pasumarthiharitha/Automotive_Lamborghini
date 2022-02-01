@@ -1,5 +1,14 @@
 # Automotive_Lamborghini
 
+## Contribution Table
+
+Name|PS Number |	Features|	
+|--------------------|:---------:|:--------:|
+Pasumarthi Haritha	|40021034| Sunroof Control system | 
+Sanapala Usharani	|40021045| Power window | 
+Kotala Vaishnavi	|40021047| seat belt control system | 
+Saba Begum	|40021049| Wiper system | 
+
 # Requirements
  ## Research
 Automation is a necessity in our day to day life because it not only seeks to improve the quality of life for humans at both home and work.
